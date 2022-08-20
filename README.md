@@ -12,15 +12,15 @@
 </h2> 
 
 ### 🤝 Connect with me:
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zinhoang/) &nbsp; &nbsp;
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zinhoang/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hoang.mantue@gmail.com)
 
 <img width="33%" align="right" alt="My Avatar" src="./My Ava.jpg" />
 
 ## 🔭 I'm currently working on
 - Building personal web apps
-- sharpening my CSS and JavaScript skills
-<!-- ## 🌱 💼I’m currently learning 
+- Sharpening my CSS and JavaScript skills
+<!-- ## 💼I’m currently learning 
 - JavaScript
 - SQLite -->
 
@@ -28,7 +28,7 @@
 - I have a BSc degree in Biotechnology and worked in the lab for 7 years
 
 ## ⚡ Fun fact: 
-- I was allergic cat but I now have two cats :sob:
+- I was allergic to cat but I now have two cats :sob:
 
 
 **Languages and Tools:**
@@ -54,8 +54,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
   <br />
 </p>
-
-
 
 <!-- This readme was inspired by Murillo Comino - https://github.com/onimur and Yu Shi https://github.com/yushi1007 -->
 
