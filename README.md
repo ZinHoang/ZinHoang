@@ -1,11 +1,61 @@
 <!-- My title -->
-## Kia Ora, I'm Zin, a Web Developer from New Zealand but born and raised in Vietnam
+<p align ="center">
+  <img width=800 height=200 src="./banner.jpeg" alt='my banner'>
+</p>
 
-- 😄 Pronouns: He/him
-- 🔭 I’m currently working on some personal projects
-- 🌱 I’m currently learning JavaScript, SQLite and React
-- 🤔 I’m looking for help with visual design
-- ⚡ Fun fact: I have a BSc degree in Biotechnology and worked in an analytical lab for 7 years
-- 📫 Reach me at hoang.mantue@gmail.com
+<h3 align="center">
+  👋Kia Ora, I'm <a href="https://zinhoang.github.io/">Zin</a>
+</h3> 
 
+<h2 align="center">
+  I'm a web developer 💻 and a scientist 🔬from New Zealand,<br> born & raised in Vietnam
+</h2> 
+
+### 🤝 Connect with me:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zinhoang/) &nbsp; &nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hoang.mantue@gmail.com)
+
+<img width="33%" align="right" alt="My Avatar" src="./My Ava.jpg" />
+
+## 🔭 I'm currently working on
+- Building personal web apps
+- sharpening my CSS and JavaScript skills
+<!-- ## 🌱 💼I’m currently learning 
+- JavaScript
+- SQLite -->
+
+##  🌱 Background
+- I have a BSc degree in Biotechnology and worked in the lab for 7 years
+
+## ⚡ Fun fact: 
+- I was allergic cat but I now have two cats :sob:
+
+
+**Languages and Tools:**
+<p>
+  <a href="https://github.com/ZinHoang/handle-path-oz">
+    <img width="55%" align="right" alt="ZinHoang's github stats" src="https://github-readme-stats.vercel.app/api?username=ZinHoang&show_icons=true&hide_border=true" />
+  </a>
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+  <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
+  <br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <br />
+</p>
+
+
+
+<!-- This readme was inspired by Murillo Comino - https://github.com/onimur and Yu Shi https://github.com/yushi1007 -->
 
