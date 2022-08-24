@@ -1,6 +1,6 @@
 <!-- My title -->
 <p align ="center">
-  <img width=800 height=250 src="Programming Joke.jpg" alt='my banner'>
+  <img src="GitHub Banner.png" alt='my banner'>
 </p>
 
 <h3 align="center">
@@ -15,7 +15,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zinhoang/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hoang.mantue@gmail.com)
 
-<img width="33%" align="right" alt="My Avatar" src="./My Ava.jpg" />
+<img width="33%" align="right" alt="My Avatar" src="./My Ava.PNG" />
 
 ## 🔭 I'm currently working on
 - Building personal web apps
