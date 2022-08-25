@@ -1,6 +1,6 @@
 <!-- My title -->
 <p align ="center">
-  <img src="GitHub Banner.png" alt='my banner'>
+  <img src="https://i.imgur.com/W2gSHB3.png" alt='my banner'>
 </p>
 
 <h3 align="center">
@@ -15,11 +15,12 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zinhoang/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hoang.mantue@gmail.com)
 
-<img width="33%" align="right" alt="My Avatar" src="./My Ava.PNG" />
+<img width="33%" align="right" alt="My Avatar" src="https://i.imgur.com/FtdEDX6.png" />
 
 ## 🔭 I'm currently working on
-- Building personal web apps
-- Sharpening my CSS and JavaScript skills
+- Building React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> web apps
+- Sharpening CSS and JavaScript skills
+
 <!-- ## 💼I’m currently learning 
 - JavaScript
 - SQLite -->
@@ -31,7 +32,7 @@
 - I was allergic to cat but I now have two cats :sob:
 
 
-**Languages and Tools:**
+### *Languages and Tools:*
 <p>
   <a href="https://github.com/ZinHoang/handle-path-oz">
     <img width="55%" align="right" alt="ZinHoang's github stats" src="https://github-readme-stats.vercel.app/api?username=ZinHoang&show_icons=true&hide_border=true" />
