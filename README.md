@@ -1,6 +1,6 @@
 <!-- My title -->
 <p align ="center">
-  <img src="https://i.imgur.com/W2gSHB3.png" alt='my banner'>
+  <img src="https://i.imgur.com/eettblz.png" alt='my banner'>
 </p>
 
 <h3 align="center">
@@ -8,7 +8,7 @@
 </h3> 
 
 <h2 align="center">
-  I'm a web developer 💻 and a scientist 🔬from New Zealand,<br> born & raised in Vietnam
+  I'm a web developer 💻 and a scientist 🔬
 </h2> 
 
 ### 🤝 Connect with me:
@@ -57,4 +57,6 @@
 </p>
 
 <!-- This readme was inspired by Murillo Comino - https://github.com/onimur and Yu Shi https://github.com/yushi1007 -->
+
+
 
