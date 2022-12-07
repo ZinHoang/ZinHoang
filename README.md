@@ -1,6 +1,6 @@
 <!-- My title -->
 <p align ="center">
-  <img src="https://i.imgur.com/eettblz.png" alt='my profile banner'>
+  <img src="https://i.imgur.com/zWmBe4Q.png" alt='my profile banner'>
 </p>
 
 <h3 align="center">
