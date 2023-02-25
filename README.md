@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  👋Kia Ora, I'm <a href="https://seasoned-production.up.railway.app/">Zin</a>
+  👋Kia Ora, I'm <a href="https://seasoned.herokuapp.com">Zin</a>
 </h3> 
 
 <h2 align="center">
