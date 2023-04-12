@@ -8,7 +8,7 @@
 </h3> 
 
 <h2 align="center">
-  I'm a web developer 💻 and a scientist 🔬
+  I'm a software developer 💻 and a scientist 🔬
 </h2> 
 
 ### 🤝 Connect with me:
@@ -19,14 +19,10 @@
 
 ## 🔭 I'm currently working on
 - Building React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> web apps
-- Sharpening CSS and JavaScript skills
-
-<!-- ## 💼I’m currently learning 
-- JavaScript
-- SQLite -->
+- Sharpening Typescript and C# skills
 
 ##  🌱 Background
-- I have a BSc degree in Biotechnology and worked in the lab for 7 years
+- I have a science background and worked in an analytical-testing lab for 6 years 🔬
 
 ## ⚡ Fun fact: 
 - I was allergic to cat but I now have two cats :sob:
@@ -39,7 +35,7 @@
   </a>
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -47,7 +43,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+ <code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
   <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
