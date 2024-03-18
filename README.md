@@ -4,12 +4,13 @@
 </p>
 
 <h3 align="center">
-  👋Kia Ora, I'm <a href="https://seasoned.herokuapp.com">Zin</a>
+  👋Kia Ora, I'm <a href="https://www.seasoned.cloud">Zin</a>
 </h3> 
 
 <h2 align="center">
-  I'm a software developer 💻 and a scientist 🔬
+  I'm a full-stack developer 💻 with a science background 🔬
 </h2> 
+
 
 ### 🤝 Connect with me:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zinhoang/) &nbsp;
@@ -17,16 +18,16 @@
 
 <img width="33%" align="right" alt="My Avatar" src="https://i.imgur.com/FtdEDX6.png" />
 
-## 🔭 I'm currently working on
+### 🔭 I'm currently working on
 - Building React <img width=15 src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> web apps
 - Sharpening Typescript and C# skills
 
-##  🌱 Background
+###  🌱 Background
 - I have a science background and worked in an analytical-testing lab for 6 years 🔬
 
-## ⚡ Fun fact: 
+### ⚡ Fun fact: 
 - I was allergic to cat but I now have two cats :sob:
-
+<br>
 
 ### *Languages and Tools:*
 <p>
