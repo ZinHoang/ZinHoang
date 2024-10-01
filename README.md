@@ -23,34 +23,27 @@
 - Sharpening Typescript and C# skills
 
 ###  🌱 Background
-- I have a science background and worked in an analytical-testing lab for 6 years 🔬
+- After nearly a decade in science — starting in a hospital lab and then 6 years in analytical chemistry — I made the leap into tech right after Covid and it's been an incredible journey!
 
-### ⚡ Fun fact: 
-- I was allergic to cat but I now have two cats :sob:
+### 🤓 Fun fact: 
+- Once got kicked out of the lab in my 3rd year for *almost* turning it into a fireball 🔥
+- Was allergic to cats for over 25 years, now a proud cat parent of two! 😭
 <br>
 
 ### *Languages and Tools:*
 <p>
-  <a href="https://github.com/ZinHoang/handle-path-oz">
+  <!-- <a href="https://github.com/ZinHoang/handle-path-oz">
     <img width="55%" align="right" alt="ZinHoang's github stats" src="https://github-readme-stats.vercel.app/api?username=ZinHoang&show_icons=true&hide_border=true" />
-  </a>
+  </a> -->
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
   <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
- <code><img width="10%" height="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg"></code>
-  <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <br />
 </p>
 
 <!-- This readme was inspired by Murillo Comino - https://github.com/onimur and Yu Shi https://github.com/yushi1007 -->
