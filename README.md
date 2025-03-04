@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  👋Kia Ora, I'm <a href="https://www.seasoned.cloud">Zin</a>
+  👋Kia Ora, I'm Zin</a>
 </h3> 
 
 <h2 align="center">
